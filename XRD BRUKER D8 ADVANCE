@@ -1,0 +1,52 @@
+//
+// **********************************************************
+// * UNLV                                                   *
+// *                                                        *
+// * XRD BRUKER D8 ADVANCE manual                           *
+// **********************************************************
+//
+//
+///
+///
+
+  // reservation
+  unlvradiochemistry@gmail.com
+
+  // materials
+  gloves; spatulas; methanol; mortar
+
+  // BRUKER
+  Push “Open Door” button
+  
+        //
+        Open and close the door very carefully.
+        If the alarm is on, please contact Daniel Koury.
+
+  // DIFFRAC plus XRD Commander
+  go to “Jobs”
+
+        // Create jobs
+        Position #
+        Sample ID
+
+        // Parameter File
+                /DIFFDAT1/MoonLab/DQL files/*.dql
+                Rotation lynxeye general xrd 0.01 120 min 10-90.dql         
+                                                               //rotation(O/X), scan speed 0.01, time 120min, 10-90°
+
+        // Raw File
+        Raw file name and saving raw data
+
+        // Script file
+                /DIFFPLUS/MeasureV4.vbs
+
+        // Mode
+        QL
+
+  Click “Start” and “OK”
+  
+  // export raw data
+         // text
+                /File/Save As/*.txt
+         // image
+         Ctrl+PrtSc
