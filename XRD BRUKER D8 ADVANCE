@@ -30,7 +30,7 @@
                 // Parameter File
                         /DIFFDAT1/MoonLab/DQL files/*.dql
                         Rotation lynxeye general xrd 0.01 120 min 10-90.dql         
-                                                           //rotation(O/X), scan speed 0.01, time 120 min, 10-90 deg
+                                                           //rotation(O/X), scan speed 0.01, time 120*min, 10-90*deg
 
                 // Raw File
                 Raw file name and saving raw data
