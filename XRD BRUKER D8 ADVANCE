@@ -33,7 +33,7 @@
                                                            //rotation(O/X), scan speed 0.01, time 120*min, 10-90*deg
 
                 // Raw File
-                Raw file name and saving raw data
+                Raw file name and saving raw data (*.raw)
 
                 // Script file
                         /DIFFPLUS/MeasureV4.vbs
