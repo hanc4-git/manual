@@ -18,14 +18,14 @@ Please contact the administrator
 // tube size
 //
 Chemglass = 
-		CGQ-0800T-16(  8*mm, 10*mm, 4*feet)			//at (ID, OD, Length)
-		CGQ-0800T-19(  9*mm, 11*mm, 4*feet)			//at (ID, OD, Length)
-		CGQ-0800T-34(13*mm, 15*mm, 4*feet)			//at (ID, OD, Length)
-		CGQ-0800T-51(17*mm, 20*mm, 4*feet)			//at (ID, OD, Length)
-		CGQ-0800T-68(22*mm, 25*mm, 4*feet)			//at (ID, OD, Length)\
+		CGQ-0800T-16(  8*mm, 10*mm, 4*feet)					//at (ID, OD, Length)
+		CGQ-0800T-19(  9*mm, 11*mm, 4*feet)					//at (ID, OD, Length)
+		CGQ-0800T-34(13*mm, 15*mm, 4*feet)					//at (ID, OD, Length)
+		CGQ-0800T-51(17*mm, 20*mm, 4*feet)					//at (ID, OD, Length)
+		CGQ-0800T-68(22*mm, 25*mm, 4*feet)					//at (ID, OD, Length)
 
 Technicalglass = 
-		Fused_Quartz(16*mm, 20*mm, 4*feet)			//at (ID, OD, Length)\
+		Fused_Quartz(16*mm, 20*mm, 4*feet)					//at (ID, OD, Length)
 
 //....oooOO0OOooo........oooOO0OOooo........oooOO0OOooo........oooOO0OOooo......
 
@@ -35,9 +35,9 @@ Technicalglass =
 Move air tank
           Option to move ar tank							//if needed
 Connect gas tubes to torch(“Type_3A_Blowpipe”)
-	green->air								//green for gas usually
-	red->gas								//red for air usually
-Open each valves few moment						//purge inside tubes
+	green->air												//green for gas usually
+	red->gas												//red for air usually
+Open each valves few moment									//purge inside tubes
 Plug in and turn on vacuum pump
 
 //
@@ -50,37 +50,37 @@ Assemble flange set(“Single-side_Quick_Flange_with_KF16_Adapter”)
 
 	// clamp
 	MTI = 
-		EQ-KF-Clamp-D16-10(10*mm)				//at (OD)
-		EQ-KF-Clamp-D16-20(20*mm)				//at (OD)
-		EQ-KF-Clamp-D16-24(24*mm)				//at (OD)
+		EQ-KF-Clamp-D16-10(10*mm)							//at (OD)
+		EQ-KF-Clamp-D16-20(20*mm)							//at (OD)
+		EQ-KF-Clamp-D16-24(24*mm)							//at (OD)
 
 //
 // vacuum
 //
 
 	// ar tube cleaning
-Open vacuum valve slowly					//check powder reverse flow
+Open vacuum valve slowly									//check powder reverse flow
 		Open all the way when close to -0.1*MPa
-Open ar valve and check gas tube flatten				//purge inside ar tube
-Close ar valve and open ar tank valve				//fill ar gas up
-Close ar tank valve and open ar valve				//purge again
-Close ar valve								//cleaning done
+Open ar valve and check gas tube flatten					//purge inside ar tube
+Close ar valve and open ar tank valve						//fill ar gas up
+Close ar tank valve and open ar valve						//purge again
+Close ar valve												//cleaning done
 Do these few times
 
 	// sample tube cleaning
 Wait ~3*min
 Close vacuum valve
-Open ar valve slowly, then close ar valve				//fill ar gas up
-Open vacuum valve slowly						//purge ar gas
+Open ar valve slowly, then close ar valve					//fill ar gas up
+Open vacuum valve slowly									//purge ar gas
 		Open all the way when close to -0.1*MPa
-	Do these three times							//cleaning done
+	Do these three times									//cleaning done
 
 //
 // sealing
 //
 	// ignition
 	Open green(“gas”) little then ignite					//CH4
-	Open red(“air”)							//O2, combustion
+	Open red(“air”)											//O2, combustion
 
 	// sealing
 	Start rotating speed 10-30
@@ -93,12 +93,12 @@ Close red(“air”)
 Close green(“gas”)
 Stop rotation
 Close vacuum valve
-	Option to open ar valve						//to cool down
+	Option to open ar valve								//to cool down
 Close all gas tank valve
-Open each torch(“Type_3A_Blowpipe”) valves few moment			//purge inside tubes
+Open each torch(“Type_3A_Blowpipe”) valves few moment	//purge inside tubes
 Turn off vacuum pump and unplug
 Return gas tubes
 Return air tank
-          Option to return ar tank							//if needed
+          Option to return ar tank						//if needed
 
 //....oooOO0OOooo........oooOO0OOooo........oooOO0OOooo........oooOO0OOooo......
