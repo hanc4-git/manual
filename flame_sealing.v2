@@ -59,19 +59,19 @@ Assemble flange set(“Single-side_Quick_Flange_with_KF16_Adapter”)
 //
 
 	// ar tube cleaning
-Open vacuum valve slowly									//check powder reverse flow
+	Open vacuum valve slowly								//check powder reverse flow
 		Open all the way when close to -0.1*MPa
-Open ar valve and check gas tube flatten					//purge inside ar tube
-Close ar valve and open ar tank valve						//fill ar gas up
-Close ar tank valve and open ar valve						//purge again
-Close ar valve												//cleaning done
-Do these few times
+	Open ar valve and check gas tube flatten				//purge inside ar tube
+	Close ar valve and open ar tank valve					//fill ar gas up
+	Close ar tank valve and open ar valve					//purge again
+	Close ar valve											//cleaning done
+	Do these few times
 
 	// sample tube cleaning
-Wait ~3*min
-Close vacuum valve
-Open ar valve slowly, then close ar valve					//fill ar gas up
-Open vacuum valve slowly									//purge ar gas
+	Wait ~3*min
+	Close vacuum valve
+	Open ar valve slowly, then close ar valve				//fill ar gas up
+	Open vacuum valve slowly								//purge ar gas
 		Open all the way when close to -0.1*MPa
 	Do these three times									//cleaning done
 
