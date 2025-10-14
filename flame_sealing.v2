@@ -33,7 +33,7 @@ Technicalglass =
 // preparation
 //
 Move air tank
-          Option to move ar tank							//if needed
+	Option to move ar tank							//if needed
 Connect gas tubes to torch(“Type_3A_Blowpipe”)
 	green->air												//green for gas usually
 	red->gas												//red for air usually
@@ -45,8 +45,8 @@ Plug in and turn on vacuum pump
 //
 Insert glass or quartz wool into the tube
 Assemble flange set(“Single-side_Quick_Flange_with_KF16_Adapter”)
-	     Clamp set(“Quick_Clamp_with_Rubber_O-Ring”)
-	     To adapter with centering ring(“Centering_Ring_with_60_mesh_SS_Screen”)
+		Clamp set(“Quick_Clamp_with_Rubber_O-Ring”)
+		To adapter with centering ring(“Centering_Ring_with_60_mesh_SS_Screen”)
 
 	// clamp
 	MTI = 
@@ -99,6 +99,6 @@ Open each torch(“Type_3A_Blowpipe”) valves few moment	//purge inside tubes
 Turn off vacuum pump and unplug
 Return gas tubes
 Return air tank
-          Option to return ar tank						//if needed
+	Option to return ar tank						//if needed
 
 //....oooOO0OOooo........oooOO0OOooo........oooOO0OOooo........oooOO0OOooo......
