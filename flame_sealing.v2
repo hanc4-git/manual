@@ -33,7 +33,7 @@ Technicalglass =
 // preparation
 //
 Move air tank
-	Option to move ar tank							//if needed
+	Option to move ar tank									//if needed
 Connect gas tubes to torch(“Type_3A_Blowpipe”)
 	green->air												//green for gas usually
 	red->gas												//red for air usually
@@ -93,12 +93,12 @@ Close red(“air”)
 Close green(“gas”)
 Stop rotation
 Close vacuum valve
-	Option to open ar valve								//to cool down
+	Option to open ar valve									//to cool down
 Close all gas tank valve
-Open each torch(“Type_3A_Blowpipe”) valves few moment	//purge inside tubes
+Open each torch(“Type_3A_Blowpipe”) valves few moment		//purge inside tubes
 Turn off vacuum pump and unplug
 Return gas tubes
 Return air tank
-	Option to return ar tank						//if needed
+	Option to return ar tank								//if needed
 
 //....oooOO0OOooo........oooOO0OOooo........oooOO0OOooo........oooOO0OOooo......
