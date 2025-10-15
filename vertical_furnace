@@ -59,7 +59,7 @@ Check indicator lights red
 
 	// tube vacuum
 	Close valve1_top										//top flange valve
-	Close valve2_bottom										//bottom flange valve
+		Option to Close valve2_bottom						//bottom flange valve
 	Turn on vacuum pump
 	Open valve2_bottom slowly
 	Wait when close to -0.05*MPa
@@ -70,7 +70,7 @@ Check indicator lights red
 
 	// break vacuum
 		Turn off vacuum pump								//if needed
-	Open valve1_top										//purge with air
+	Open valve1_top											//purge with air
 	Wait when close to ~0*MPa
 	Able to open top outer flange
 
