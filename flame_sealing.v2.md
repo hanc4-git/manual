@@ -19,18 +19,18 @@ Chemglass =
 Technicalglass = 
 		Fused_Quartz(16*mm, 20*mm, 4*feet)
 ```
->at (ID, OD, Length)
+> at (ID, OD, Length)
 
 ## preparation
 1. move **air** tank
 2. move *Ar* tank if needed
 3. connect **gas tubes** to **torch** *(Type_3A_Blowpipe)*\
 	**green**->air\
-	**red**->gas *(CH~4~, methane)*
->green for gas and red for air usually
+	**red**->gas *(CH<sub>4</sub>, methane)*
+> green for gas and red for air usually
 
 4. open each valves few moment
->purge inside tubes
+> purge inside tubes
 
 5. plug in and turn on **vacuum pump**
 
@@ -47,7 +47,7 @@ Technicalglass =
 		EQ-KF-Clamp-D16-20(20*mm)
 		EQ-KF-Clamp-D16-24(24*mm)
  	```
- 	>at (OD)
+ 	> at (OD)
 
 ## vacuum
 ### Ar tube cleaning
