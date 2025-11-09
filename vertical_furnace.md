@@ -1,34 +1,22 @@
-//
-// ******************************************************************
-// * UNLV															*
-// *																*
-// * vertical furnace manual										*
-// * the new version is available on GitHub.						*
-// ******************************************************************
-//
-//
-///
-///
+# **vertical furnace manual**
+UNLV\
+the new version is available on [GitHub](https://github.com/hanc4-git?tab=repositories).
 
-//....oooOO0OOooo........oooOO0OOooo........oooOO0OOooo........oooOO0OOooo......
-
-// OTF-1200X-125-VT(“Split Vertical Tube Furnace”)
-//
+## OTF-1200X-125-VT *(Split Vertical Tube Furnace)*
+```
 MTI = 
-	OTF-1200X-125-VT(2.5*KW, 220-240*VAC, 50/60*Hz,			//its power, voltage
-		1200*C, ~20*C/min)									//its max temperature, max heating rate
-	Tube(130*mm, 120*mm,. 1400*mm,							//at (OD, ID, Length)
-		quartz, 880*mm,										//its materials, heating zone length
-		Fe-Cr-Al alloy doped by Mo)							//heating element
+	OTF-1200X-125-VT(2.5*KW, 220-240*VAC, 50/60*Hz, 1200*C, ~20*C/min)
+				Tube(130*mm, 120*mm,. 1400*mm,
+					quartz, 880*mm, Fe-Cr-Al alloy doped by Mo)
+```
+> its power, voltage, max temperature, max heating rate\
+> at (OD, ID, Length)\
+> its materials, heating zone length, heating element
 
-//....oooOO0OOooo........oooOO0OOooo........oooOO0OOooo........oooOO0OOooo......
-
-//
-// temperature control program
-//
-Power on
-	black->power
-Set control program
+## temperature control program
+1. **power (black)** on
+2. set control program
+```
 	Furnace zone(left, central, right)						//its zone 1, 2, 3
 	Touch key arrow1_leftwards->enter the stage of temperature(“A/M”)
 			C01->celcius*C									//its temperature
@@ -39,6 +27,7 @@ Set control program
 		Touch key arrow2_clockwise open circle->get in next segment
 	Program end = -121										//output power off
 															//for negative, decrease number to make 0 first
+```
 Run control program
 	Heater on
 		green->heating ready
