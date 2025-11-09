@@ -57,23 +57,20 @@ Cole-Parmer =
 
 2. turn on **vacuum pump**
 3. open **valve2_bottom** *(bottom flange valve)* slowly
-	Wait when close to -0.05*MPa
+4. wait when close to **-0.05*MPa**
+5. close **valve2_bottom** *(bottom flange valve)*
+> tube vacuum locked in
 
-	// tube vacuum locked in
-	Close valve2_bottom										//tube vacuum locked in
-	Turn off vacuum pump
+6. turn off **vacuum pump**
 
-	// break vacuum
-		Turn off vacuum pump								//if needed
-	Open valve1_top											//purge with air
-	Wait when close to ~0*MPa
-	Able to open top outer flange
+### break vacuum
+1. turn off **vacuum pump** if needed
+2. open *valve1_top** *(top flange valve)*
+> purge with air
 
-//
-// closing
-//
-Close furnace door
-Power off
-	black->power
+3. wait when close to **~0*MPa**
+4. able to unscrew **lid** *(top outer flange)*
 
-//....oooOO0OOooo........oooOO0OOooo........oooOO0OOooo........oooOO0OOooo......
+## closing
+1. close furnace door
+2. **power (black)** off
