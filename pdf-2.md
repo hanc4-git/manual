@@ -8,7 +8,7 @@ flash drive
 ## pdf-2 setup
 1. open **SIeve**
 2. **Import 1D diffraction pattern**
-3. open raw data (*.raw)
+3. open raw data *(.raw)*
 4. select **My Default**
 5. **Import**
 
@@ -21,11 +21,11 @@ flash drive
 1. **Accept Phase**
 2. right-click on plot
 3. **Open New Window**
-4. **Export** (*.csv, *.xy, *.png)
+4. **Export** *(.csv, .xy, .png)*
 
 ### phase identification
 1. select **Phase**
 2. right-click on list
 3. **Open PDF**
 4. **Print**
-5. save pdf (*.pdf)
+5. save pdf *(.pdf)*
