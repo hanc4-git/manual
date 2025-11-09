@@ -2,10 +2,13 @@
 UNLV\
 the new version is available on [GitHub](https://github.com/hanc4-git?tab=repositories).
 
+## tutorial
+[ICDD](https://www.youtube.com/@TheICDD/)
+
 ## materials
 flash drive
 
-## pdf-2 setup
+## [pdf-2](https://www.icdd.com/product-tutorials/) setup
 1. open **SIeve**
 2. **Import 1D diffraction pattern**
 3. open raw data *(.raw)*
