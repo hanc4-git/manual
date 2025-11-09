@@ -1,4 +1,4 @@
-# **flame sealing manual v2**
+# **flame sealing manual.v2**
 UNLV\
 the new version is available on [GitHub](https://github.com/hanc4-git?tab=repositories).
 
