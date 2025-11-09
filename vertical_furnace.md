@@ -2,10 +2,10 @@
 UNLV\
 the new version is available on [GitHub](https://github.com/hanc4-git?tab=repositories).
 
-## OTF-1200X-125-VT *(Split Vertical Tube Furnace)*
+## OTF-1200X-VT-III-5 *(CE Certified Three Zone Split Vertical Tube Furnace)*
 ```
 MTI = 
-	OTF-1200X-125-VT(2.5*KW, 220-240*VAC, 50/60*Hz, 1200*C, ~20*C/min)
+	OTF-1200X-VT-III-5(2.5*KW, 208-240*VAC, 50/60*Hz, 1200*C, ~20*C/min)
 				Tube(130*mm, 120*mm, 1400*mm,
 					quartz, 880*mm, Fe-Cr-Al alloy doped by Mo)
 ```
@@ -41,7 +41,7 @@ MTI =
 6. check indicator lights flashing
 
 ## vacuum
-### VPS-200 *(Air_Admiral_Vacuum_Pump_Station)*
+### [VPS-200 *(Air_Admiral_Vacuum_Pump_Station)*](https://www.coleparmer.com/p/cole-parmer-vps-200-series-air-admiral-vacuum-pumps/48670)
 ```
 Cole-Parmer = 
 	EW-79202-00(0.37*cfm, 21.3*inch Hg, 0.25*inch, 115*VAC, 1.6*amps, 60*Hz)
