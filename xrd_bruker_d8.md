@@ -26,7 +26,7 @@ gloves, spatulas, mortar and pestle, methanol *(CH<sub>4</sub>)* or ethanol *(C<
   `rotation lynxeye general xrd 0.01 120 min 10-90.dql`
    > rotation, lynxeye, general, xrd, scan speed, time, degree
 
-8. create *file name* and save raw *(**.raw)* data
+8. create *file name* and save raw *(***.raw)* data
 9. open **script**
 10. `DIFFPLUS\MeasureV4.vbs`
 11. select **QL** mode
