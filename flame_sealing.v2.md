@@ -34,19 +34,20 @@ Technicalglass =
 
 5. plug in and turn on **vacuum pump**
 
-//
-// MTI-EQ-VTS-1(“Rotatable_Vacuum_Ampule_Sealing_Device”)
-//
-Insert glass or quartz wool into the tube
-Assemble flange set(“Single-side_Quick_Flange_with_KF16_Adapter”)
-		Clamp set(“Quick_Clamp_with_Rubber_O-Ring”)
-		To adapter with centering ring(“Centering_Ring_with_60_mesh_SS_Screen”)
+## MTI-EQ-VTS-1 *(Rotatable_Vacuum_Ampule_Sealing_Device)*
+1. insert glass or quartz wool into the tube
+2. assemble **flange set** *(Single-side_Quick_Flange_with_KF16_Adapter)*\
+	**clamp set** *(Quick_Clamp_with_Rubber_O-Ring)*\
+	**adapter with centering ring** *(Centering_Ring_with_60_mesh_SS_Screen)*
 
-	// clamp
+	- clamp
+	```
 	MTI = 
-		EQ-KF-Clamp-D16-10(10*mm)							//at (OD)
-		EQ-KF-Clamp-D16-20(20*mm)							//at (OD)
-		EQ-KF-Clamp-D16-24(24*mm)							//at (OD)
+		EQ-KF-Clamp-D16-10(10*mm)
+		EQ-KF-Clamp-D16-20(20*mm)
+		EQ-KF-Clamp-D16-24(24*mm)
+ 	```
+ 	>at (OD)
 
 //
 // vacuum
