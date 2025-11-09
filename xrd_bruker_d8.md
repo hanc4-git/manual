@@ -22,18 +22,18 @@ gloves, spatulas, mortar and pestle, methanol *(CH<sub>4</sub>)* or ethanol *(C<
 4. **Position #**
 5. **Sample ID**
 6. open **Parameter File**
-7. `DIFFDAT1\DQL files\.dql`\
+7. `DIFFDAT1\DQL files\*.dql`\
   `rotation lynxeye general xrd 0.01 120 min 10-90.dql`
    > rotation, lynxeye, general, xrd, scan speed, time, degree
 
-8. create *file name* and save raw *(.raw)* data
+8. create *file name* and save raw *(**.raw)* data
 9. open **script**
 10. `DIFFPLUS\MeasureV4.vbs`
 11. select **QL** mode
 12. **Start** and **OK**
 
 ### export
-1. `File\Save As\.txt`
+1. `File\Save As\*.txt`
 2. capture images *(Ctrl+PrtSc)*
 
 ## troubleshooting
@@ -42,7 +42,7 @@ gloves, spatulas, mortar and pestle, methanol *(CH<sub>4</sub>)* or ethanol *(C<
 > diagnose software
 
   1. open **STATUS-file**
-  2. `My Documents\Status\.sts`
+  2. `My Documents\Status\*.sts`
   3. check red alarm on whole category
   4. if something wrong, please contact the **administrator**
 
@@ -53,12 +53,12 @@ gloves, spatulas, mortar and pestle, methanol *(CH<sub>4</sub>)* or ethanol *(C<
   2. if not match, type *degree values* in the blank box
   3. click **Int Drives**
   4. check **Power Voltage**
-  > Default values = 20kV, 5mA\
-  > when xrd running, increase power up to **40kV, 40mA** gradually
+  > Default values = 20*kV, 5*mA\
+  > when xrd running, increase power up to **40*kV,** **40*mA** gradually
 
   6. if not going up, stop jobs and set power up again
   7. type *kV values* in the blank box
   8. click **Set**
-  > when xrd running, increase power 5-10kV, 5-10mA each time
+  > when xrd running, increase power **5-10*kV,** **5-10*mA** each time
 
 4. if something wrong, please contact the **administrator**
