@@ -95,7 +95,7 @@ Technicalglass =
 
 ## closing
 1. close **air valve (green)**
-> *(O<sub>2</sub>, oxygen)*
+> *O<sub>2</sub>, oxygen*
 
 2. close **gas valve (red)**
 > *CH<sub>4</sub>, methane*
