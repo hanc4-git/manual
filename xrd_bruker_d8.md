@@ -2,7 +2,7 @@
 UNLV\
 the new version is available on [GitHub](https://github.com/hanc4-git?tab=repositories).
 
-## reservation
+## reservation @HRC-145-B&C
 please contact the **administrator**
 
 ## materials
@@ -20,9 +20,9 @@ gloves, spatulas, mortar and pestle, methanol *(CH<sub>4</sub>)* or ethanol *(C<
 3. **Position #**
 4. **Sample ID**
 5. open **Parameter File**
-`DIFFDAT1\DQL files\*.dql`
+`DIFFDAT1\DQL files\.dql`
 `rotation lynxeye general xrd 0.01 120 min 10-90`
->rotation lynxeye general xrd scan_speed time angle
+>rotation, lynxeye, general, xrd, scan speed, time, degree
 
 6. create *file name* and save raw *(.raw)* data
 7. open **script**
@@ -30,3 +30,7 @@ gloves, spatulas, mortar and pestle, methanol *(CH<sub>4</sub>)* or ethanol *(C<
 
 8. select **QL** mode
 9. **Start** and **OK**
+`File\Save As\.txt`
+> export
+
+10. capture images *(Ctrl+PrtSc)*
