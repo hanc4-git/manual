@@ -25,7 +25,7 @@ Technicalglass =
 1. move **air** tank
 2. move *Ar* tank if needed
 3. connect **gas tubes** to **torch** *(Type_3A_Blowpipe)*\
-	**green**->air\
+	**green**->air *(O<sub>2</sub>, oxygen)*\
 	**red**->gas *(CH<sub>4</sub>, methane)*
 > green for gas and red for air usually
 
@@ -50,8 +50,8 @@ Technicalglass =
  	> at (OD)
 
 ## vacuum
-### Ar tube cleaning
-1. open **vacuum valve** slowly
+### *Ar* tube cleaning
+1. open **vacuum valve (left)** slowly
 > check powder reverse flow
 
 2. open all the way when close to **-0.1*MPa**
@@ -69,37 +69,47 @@ Technicalglass =
 
 7. do these few times
 
-	// sample tube cleaning
-	Wait ~3*min
-	Close vacuum valve
-	Open ar valve slowly, then close ar valve				//fill ar gas up
-	Open vacuum valve slowly								//purge ar gas
-		Open all the way when close to -0.1*MPa
-	Do these three times									//cleaning done
+### sample tube cleaning
+1. wait **~3*min**
+2. close **vacuum valve**
+3. open ***Ar* valve (Black)** slowly, then close ***Ar* valve (Black)**
+> fill *Ar* into sample tube
+
+4. open **vacuum valve (left)** slowly
+> purge *Ar* inside sample tube
+
+5. open all the way when close to **-0.1*MPa**
+6. Do these three times
+> cleaning done
 
 ## sealing
-//
-	// ignition
-	Open green(“gas”) little then ignite					//CH4
-	Open red(“air”)											//O2, combustion
+1. open **gas valve (red)** little
+> *CH<sub>4</sub>, methane*
 
-	// sealing
-	Start rotating speed 10-30
-	Seal and leak check
+2. ignite
+3. open **air valve (green)**
+> *(O<sub>2</sub>, oxygen)*
+   
+4. start rotating speed **10-30**
+5. seal and leak check
 
-//
-// closing
-//
-Close red(“air”)
-Close green(“gas”)
-Stop rotation
-Close vacuum valve
-	Option to open ar valve									//to cool down
-Close all gas tank valve
-Open each torch(“Type_3A_Blowpipe”) valves few moment		//purge inside tubes
-Turn off vacuum pump and unplug
-Return gas tubes
-Return air tank
-	Option to return ar tank								//if needed
+## closing
+1. close **air valve (green)**
+> *(O<sub>2</sub>, oxygen)*
 
-//....oooOO0OOooo........oooOO0OOooo........oooOO0OOooo........oooOO0OOooo......
+2. close **gas valve (red)**
+> *CH<sub>4</sub>, methane*
+
+3. stop rotation
+4. close **vacuum valve (left)**
+
+	- option to fast cool down
+		open ***Ar* valve (Black)**
+
+5. close all gas valve
+6. open each **torch** *(Type_3A_Blowpipe)* valves few moment
+> purge inside tubes
+
+7. turn off **vacuum pump** and unplug
+8. return **air** tank
+9. return *Ar* tank if needed
