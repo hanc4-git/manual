@@ -51,10 +51,14 @@ Technicalglass =
 
 ## vacuum
 ### Ar tube cleaning
-	Open vacuum valve slowly								//check powder reverse flow
-		Open all the way when close to -0.1*MPa
-	Open ar valve and check gas tube flatten				//purge inside ar tube
-	Close ar valve and open ar tank valve					//fill ar gas up
+1. open **vacuum valve** slowly
+> check powder reverse flow
+
+2. open all the way when close to **-0.1*MPa**
+3. open ***Ar* valve** and check gas tube flatten
+> purge inside *Ar* tube
+
+4. close ar valve and open ar tank valve					//fill ar gas up
 	Close ar tank valve and open ar valve					//purge again
 	Close ar valve											//cleaning done
 	Do these few times
