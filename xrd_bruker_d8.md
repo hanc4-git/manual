@@ -44,7 +44,7 @@ gloves, spatulas, mortar and pestle, methanol *(CH<sub>4</sub>)* or ethanol *(C<
   1. open **STATUS-file**
   2. `My Documents\Status\.sts`
   3. check red alarm on whole category
-  > if something wrong, please contact the **administrator**
+  4. if something wrong, please contact the **administrator**
 
 3. run **DIFFRAC plus XRD Commander**
   1. check degree
@@ -59,5 +59,6 @@ gloves, spatulas, mortar and pestle, methanol *(CH<sub>4</sub>)* or ethanol *(C<
   6. if not going up, stop jobs and set power up again
   7. type *kV values* in the blank box
   8. click **Set**
-  > when xrd running, increase power 5-10kV, 5-10mA each time\
-  > if something wrong, please contact the **administrator**
+  > when xrd running, increase power 5-10kV, 5-10mA each time
+
+4. if something wrong, please contact the **administrator**
