@@ -30,7 +30,7 @@ gloves, spatulas, mortar and pestle, methanol *(CH<sub>4</sub>)* or ethanol *(C<
 `DIFFPLUS\MeasureV4.vbs`
 
 8. select **QL** mode
-9. **Start** and **OK**\
+9. **Start** and **OK**
 
 ### export
 1. `File\Save As\.txt`
