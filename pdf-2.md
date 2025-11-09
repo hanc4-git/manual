@@ -7,8 +7,10 @@ flash drive
 
 ## pdf-2 setup
 1. open **SIeve**
-2. open raw data (*.raw) as 1D diffraction pattern
-3. **Import**
+2. **Import 1D diffraction pattern**
+3. open raw data (*.raw)
+4. select **My Default**
+5. **Import**
 
 ### search filter
 1. **Boolean**
