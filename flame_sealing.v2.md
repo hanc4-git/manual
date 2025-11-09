@@ -3,7 +3,7 @@ UNLV\
 the new version is available on [GitHub](https://github.com/hanc4-git?tab=repositories).
 
 ## reservation
-Please contact the **administrator**
+please contact the **administrator**
 
 ## tube size
 ```
@@ -22,14 +22,17 @@ Technicalglass =
 >at (ID, OD, Length)
 
 ## preparation
+1. move **air** tank
+2. move ar tank if needed
+3. connect **gas tubes** to **torch** *(Type_3A_Blowpipe)*\
+	**green**->air\
+	**red**->gas
+>green for gas and red for air usually
 
-Move air tank
-	Option to move ar tank									//if needed
-Connect gas tubes to torch(“Type_3A_Blowpipe”)
-	green->air												//green for gas usually
-	red->gas												//red for air usually
-Open each valves few moment									//purge inside tubes
-Plug in and turn on vacuum pump
+4. open each valves few moment
+>purge inside tubes
+
+5. plug in and turn on **vacuum pump**
 
 //
 // MTI-EQ-VTS-1(“Rotatable_Vacuum_Ampule_Sealing_Device”)
