@@ -23,10 +23,10 @@ Technicalglass =
 
 ## preparation
 1. move **air** tank
-2. move ar tank if needed
+2. move *Ar* tank if needed
 3. connect **gas tubes** to **torch** *(Type_3A_Blowpipe)*\
 	**green**->air\
-	**red**->gas
+	**red**->gas *(CH~4~, methane)*
 >green for gas and red for air usually
 
 4. open each valves few moment
@@ -49,11 +49,8 @@ Technicalglass =
  	```
  	>at (OD)
 
-//
-// vacuum
-//
-
-	// ar tube cleaning
+## vacuum
+### Ar tube cleaning
 	Open vacuum valve slowly								//check powder reverse flow
 		Open all the way when close to -0.1*MPa
 	Open ar valve and check gas tube flatten				//purge inside ar tube
