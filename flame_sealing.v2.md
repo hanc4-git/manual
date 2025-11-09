@@ -55,15 +55,19 @@ Technicalglass =
 > check powder reverse flow
 
 2. open all the way when close to **-0.1*MPa**
-3. open ***Ar* valve** and check gas tube flatten
+3. open ***Ar* valve (Black)** and check *Ar* gas tube flatten
 > purge inside *Ar* tube
 
-4. close ***Ar* valve** and open ***Ar* tank valve**
+4. close ***Ar* valve (Black)** and open ***Ar* gas tank (Green) valve**
 > fill *Ar* into *Ar* tube
 
-5. close ar tank valve and open ar valve					//purge again
-	Close ar valve											//cleaning done
-	Do these few times
+5. close ***Ar* gas tank (Green) valve** and open ***Ar* valve (Black)**
+> purge again
+
+6. close ***Ar* valve (Black)**
+> cleaning done
+
+7. do these few times
 
 	// sample tube cleaning
 	Wait ~3*min
@@ -73,8 +77,7 @@ Technicalglass =
 		Open all the way when close to -0.1*MPa
 	Do these three times									//cleaning done
 
-//
-// sealing
+## sealing
 //
 	// ignition
 	Open green(“gas”) little then ignite					//CH4
