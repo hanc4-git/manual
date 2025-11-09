@@ -59,7 +59,7 @@ Technicalglass =
 > purge inside *Ar* tube
 
 4. close ***Ar* valve** and open ***Ar* tank valve**
-> fill *Ar* into gas tube
+> fill *Ar* into *Ar* tube
 
 5. close ar tank valve and open ar valve					//purge again
 	Close ar valve											//cleaning done
