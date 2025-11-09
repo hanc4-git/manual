@@ -7,24 +7,26 @@ please contact the **administrator**
 
 ## tube size
 ```
-Chemglass = 
+chemglass = 
 		CGQ-0800T-16( 8*mm, 10*mm, 4*feet)
 		CGQ-0800T-19( 9*mm, 11*mm, 4*feet)
 		CGQ-0800T-34(13*mm, 15*mm, 4*feet)
 		CGQ-0800T-51(17*mm, 20*mm, 4*feet)
 		CGQ-0800T-68(22*mm, 25*mm, 4*feet)
 ```
+> [chemglass](https://chemglass.com/quartz-tubing-clear-fused-general-electric-type-214)
 
 ```
-Technicalglass = 
+technicalglass = 
 		Fused_Quartz(16*mm, 20*mm, 4*feet)
 ```
+> [technicalglass](https://technicalglass.com/product-pages/fused-quartz-tubing/)\
 > at (ID, OD, Length)
 
 ## preparation
 1. move **air** tank
 2. move *Ar* tank if needed
-3. connect **gas tubes** to **torch** *(Type_3A_Blowpipe)*\
+3. connect **gas tubes** to [**torch** *(Type_3A_Blowpipe)*](https://artcoinc.com/national.php)\
 	**green**->air *(O<sub>2</sub>, oxygen)*\
 	**red**->gas *(CH<sub>4</sub>, methane)*
 > green for gas and red for air usually
@@ -34,7 +36,7 @@ Technicalglass =
 
 5. plug in and turn on **vacuum pump**
 
-## MTI-EQ-VTS-1 *(Rotatable_Vacuum_Ampule_Sealing_Device)*
+## [MTI-EQ-VTS-1 *(Rotatable_Vacuum_Ampule_Sealing_Device)*](https://mtixtl.com/products/vts-1)
 1. insert glass or quartz wool into the tube
 2. assemble **flange set** *(Single-side_Quick_Flange_with_KF16_Adapter)*\
 	**clamp set** *(Quick_Clamp_with_Rubber_O-Ring)*\
