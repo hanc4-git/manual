@@ -7,12 +7,12 @@ the new version is available on [GitHub](https://github.com/hanc4-git?tab=reposi
 [398853-5G $70.40](https://www.sigmaaldrich.com/US/en/product/aldrich/398853)\
 [211141-100G $121.00](https://www.sigmaaldrich.com/US/en/product/aldrich/211141)
 
-1. Pb(NO<sub>3</sub>)<sub>2</sub> *49.6812***g* (0.15 mol) in boiling H<sub>2</sub>O *100***mL*\
+1. Pb(NO<sub>3</sub>)<sub>2</sub> *49.6812 g* (0.15 mol) in boiling H<sub>2</sub>O *100 mL*\
   *Pb(NO<sub>3</sub>)<sub>2</sub> (s) + H<sub>2</sub>O (l) = Pb<sup>2+</sup> (aq) + 2NO<sub>3</sub><sup>-</sup> (aq)*
 
-2. KBr *35.7007***g* (0.3 mol) in boiling H<sub>2</sub>O *50***mL*\
+2. KBr *35.7007 g* (0.3 mol) in boiling H<sub>2</sub>O *50 mL*\
   *KBr (s) + H<sub>2</sub>O (l) = K<sup>+</sup> (aq) + Br<sup>-</sup> (aq)*
-*(***.raw)*
+
 
 
 c.	a. -> b. w/ stirring
