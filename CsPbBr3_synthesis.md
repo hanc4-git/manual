@@ -1,13 +1,19 @@
-0212 CPB synthesis
-The new version is available on GitHub.
+# **CsPbBr3 synthesis**
+UNLV\
+the new version is available on [GitHub](https://github.com/hanc4-git?tab=repositories).
 
-// lead bromide precursor
-1.	PbBr2 (398853 – $55.80/5g) (211141 – $96.30/100g)
-a.	KBr 35.7007 g (0.3 mol) in boiling H2O 50 mL
-KBr (s) + H2O (l) = K+ (aq) + Br- (aq)
+## lead bromide (PbBr<sub>2</sub>) precursor
+[915696-5G $164.00](https://www.sigmaaldrich.com/US/en/product/aldrich/915696)\
+[398853-5G $70.40](https://www.sigmaaldrich.com/US/en/product/aldrich/398853)\
+[211141-100G $121.00](https://www.sigmaaldrich.com/US/en/product/aldrich/211141)
 
-b.	Pb(NO3)2 49.6812 g (0.15 mol) in boiling H2O 100 mL
-Pb(NO3)2 (s) + H2O (l) = Pb 2+ (aq) + 2NO3- (aq)
+1. Pb(NO<sub>3</sub>)<sub>2</sub> *49.6812***g* (0.15 mol) in boiling H<sub>2</sub>O *100***mL*\
+  *Pb(NO<sub>3</sub>)<sub>2</sub> (s) + H<sub>2</sub>O (l) = Pb<sup>2+</sup> (aq) + 2NO<sub>3</sub><sup>-</sup> (aq)*
+
+2. KBr *35.7007***g* (0.3 mol) in boiling H<sub>2</sub>O *50***mL*\
+  *KBr (s) + H<sub>2</sub>O (l) = K<sup>+</sup> (aq) + Br<sup>-</sup> (aq)*
+*(***.raw)*
+
 
 c.	a. -> b. w/ stirring
 Pb 2+ (aq) + 2NO3- (aq) + 2K+ (aq) + 2Br- (aq) = PbBr2↓ (s) + 2KNO3 (s) + H2O (l)
