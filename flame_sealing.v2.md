@@ -88,7 +88,7 @@ Technicalglass =
 
 2. ignite
 3. open **air valve (green)**
-> *(O<sub>2</sub>, oxygen)*
+> *O<sub>2</sub>, oxygen*
    
 4. start rotating speed **10-30**
 5. seal and leak check
