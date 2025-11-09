@@ -2,7 +2,7 @@
 UNLV\
 the new version is available on [GitHub](https://github.com/hanc4-git?tab=repositories).
 
-## OTF-1200X-VT-III-5 *(CE Certified Three Zone Split Vertical Tube Furnace)*
+## [OTF-1200X-VT-III-5 *(CE Certified Three Zone Split Vertical Tube Furnace)*](https://mtixtl.com/search?options%5Bprefix%5D=last&page=1&q=OTF-1200X-VT-III-5)
 ```
 MTI = 
 	OTF-1200X-VT-III-5(2.5*KW, 208-240*VAC, 50/60*Hz, 1200*C, ~20*C/min)
