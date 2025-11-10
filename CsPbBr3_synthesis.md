@@ -24,7 +24,7 @@ sigmaaldrich =
 5. **vacuum filtration** with H<sub>2</sub>O\
   *PbBr<sub>2</sub> (s) + 2NO<sub>3</sub> (s) + H<sub>2</sub>O (l) &rarr; PbBr<sub>2</sub> (s) + 2K<sup>+</sup> (aq) + 2NO<sub>3</sub><sup>-</sup> (aq)*
 
-6. vacuum drying PbBr<sub>2</sub> *45**g* (0.12 mol)
+6. vacuum drying PbBr<sub>2</sub> *45*g* (0.12 mol)
 
 ## **CsPbBr<sub>3</sub> synthesis**
 ### solution process
