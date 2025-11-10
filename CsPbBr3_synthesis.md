@@ -11,10 +11,10 @@ sigmaaldrich =
 ```
 > [sigmaaldrich](https://www.sigmaaldrich.com/US/en/product/aldrich/915696)
 
-1. Pb(NO<sub>3</sub>)<sub>2</sub> *49.6812***g* (0.15 mol) in boiling H<sub>2</sub>O *100***mL*\
+1. Pb(NO<sub>3</sub>)<sub>2</sub> *49.6815***g* (0.15 mol) in boiling H<sub>2</sub>O *100***mL*\
   *Pb(NO<sub>3</sub>)<sub>2</sub> (s) + H<sub>2</sub>O (l) &rarr; Pb<sup>2+</sup> (aq) + 2NO<sub>3</sub><sup>-</sup> (aq)*
 
-2. KBr *35.7007***g* (0.3 mol) in boiling H<sub>2</sub>O *50***mL*\
+2. KBr *35.7000***g* (0.3 mol) in boiling H<sub>2</sub>O *50***mL*\
   *KBr (s) + H<sub>2</sub>O (l) &rarr; K<sup>+</sup> (aq) + Br<sup>-</sup> (aq)*
 
 3. stirring\
@@ -39,11 +39,13 @@ sigmaaldrich =
 
 4. keep stirring at least *30***min*
 5. **vacuum filtration** with *C<sub>2</sub>H<sub>6</sub>O, ethanol*\
-   *CsPbBr<sub>3</sub>&darr; (s) + HBr (aq) + C<sub>2</sub>H<sub>6</sub>O (aq) &rarr; CsPbBr<sub>3</sub> (s) + C<sub>2</sub>H<sub>5</sub>Br (l) + H<sub>2</sub>O (l)*
+   *CsPbBr<sub>3</sub> (s) + HBr (aq) + C<sub>2</sub>H<sub>6</sub>O (aq) &rarr; CsPbBr<sub>3</sub> (s) + [C<sub>2</sub>H<sub>5</sub>Br](https://en.wikipedia.org/wiki/Bromoethane) (l) + H<sub>2</sub>O (l)*
 
-5.	Vacuum drying (10.6 g)
+6. vacuum drying CsPbBr<sub>3</sub> *10.6***g* (0.02 mol)
 
 ### solid state process
-1.	PbBr2 7.31 g (0.02 mol) + CsBr 4.26 g (0.02 mol) w/ grinding
-2.	Soaking 600 ⁰C for 6 hrs
-3.	Cool to RT w/ 50 ⁰C/h
+1. pounded or rubbed with a pestle with PbBr<sub>2</sub> *7.3402***g* (0.02 mol) and CsBr *4.2562***g* (0.02 mol)
+
+
+3.	Soaking 600 ⁰C for 6 hrs
+4.	Cool to RT w/ 50 ⁰C/h
