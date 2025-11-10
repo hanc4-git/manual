@@ -16,28 +16,29 @@ the new version is available on [GitHub](https://github.com/hanc4-git?tab=reposi
 3. stirring\
   *Pb<sup>2+</sup> (aq) + 2NO<sub>3</sub><sup>-</sup> (aq) + 2K<sup>+</sup> (aq) + 2Br<sup>-</sup> (aq) &rarr; PbBr<sub>2</sub>&darr; (s) + 2NO<sub>3</sub> (s) + H<sub>2</sub>O (l)*
 
-4.	cool to room temperature and keep stirring
-5.	Vacuum filtration w/ H2O
-PbBr2 (s) + 2KNO3 (s) + H2O washing = PbBr2 (s) + 2K+ (aq) + 2NO3- (aq)
+4.	keep stirring and cool to room temperature
+5.	**vacuum filtration** with H<sub>2</sub>O\
+  *PbBr<sub>2</sub> (s) + 2NO<sub>3</sub> (s) + H<sub>2</sub>O (l) &rarr; PbBr<sub>2</sub> (s) + 2K<sup>+</sup> (aq) + 2NO<sub>3</sub><sup>-</sup> (aq)*
 
-g.	Vacuum drying (45 g)
+6.	vacuum drying PbBr<sub>2</sub> *45 g* (0.12 mol)
 
-// CsPbBr3 – solution process
-a.	CsBr 4.2562 g (0.02 mol) in boiling H2O 10 mL
-CsBr (s) + H2O (l) = Cs+ (aq) + Br- (aq)
-
-b.	PbBr2 7.3402 g (0.02 mol) in 48% HBr 30 mL
+## **CsPbBr<sub>3</sub> synthesis**
+### solution process
+1.	PbBr2 7.3402 g (0.02 mol) in 48% HBr 30 mL
 PbBr2 (s) + HBr (aq) = (PbBr3)- (aq) + HBr (aq)
 
-c.	a. -> b. w/ stirring
+2.	CsBr 4.2562 g (0.02 mol) in boiling H2O 10 mL
+CsBr (s) + H2O (l) = Cs+ (aq) + Br- (aq)
+
+3.	a. -> b. w/ stirring
 (PbBr3)- (aq) + HBr (aq) + Cs+ (aq) + Br- (aq) = CsPbBr3↓ (s) + HBr (aq)
 
-d.	Vacuum filtration w/ Ethanol
+4.	Vacuum filtration w/ Ethanol
 CsPbBr3 (s) + HBr (aq) + CH3CH2OH washing = CsPbBr3 (s) + C2H5Br (l) + H2O (l)
 
-e.	Vacuum drying (10.6 g)
+5.	Vacuum drying (10.6 g)
 
-// CsPbBr3 – solid state process
-a.	CsBr 4.26 g (0.02 mol) + PbBr2 7.31 g (0.02 mol) w/ grinding
-b.	Soaking 600 ⁰C for 6 hrs
-c.	Cool to RT w/ 50 ⁰C/h
+### solid state process
+1.	CsBr 4.26 g (0.02 mol) + PbBr2 7.31 g (0.02 mol) w/ grinding
+2.	Soaking 600 ⁰C for 6 hrs
+3.	Cool to RT w/ 50 ⁰C/h
