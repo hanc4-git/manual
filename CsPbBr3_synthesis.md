@@ -14,7 +14,7 @@ sigmaaldrich =
 1. Pb(NO<sub>3</sub>)<sub>2</sub> *49.6812***g* (0.15 mol) in boiling H<sub>2</sub>O *100***mL*\
   *Pb(NO<sub>3</sub>)<sub>2</sub> (s) + H<sub>2</sub>O (l) &rarr; Pb<sup>2+</sup> (aq) + 2NO<sub>3</sub><sup>-</sup> (aq)*
 
-2. KBr *35.7007 g* (0.3 mol) in boiling H<sub>2</sub>O *50 mL*\
+2. KBr *35.7007***g* (0.3 mol) in boiling H<sub>2</sub>O *50***mL*\
   *KBr (s) + H<sub>2</sub>O (l) &rarr; K<sup>+</sup> (aq) + Br<sup>-</sup> (aq)*
 
 3. stirring\
@@ -31,7 +31,7 @@ sigmaaldrich =
 1. PbBr<sub>2</sub> *7.3402 g* (0.02 mol) in HBr (48 wt. % in H<sub>2</sub>O) *10 mL*\
    *PbBr<sub>2</sub> (s) + HBr (aq) &rarr; (PbBr<sub>3</sub>)<sup>-</sup> (aq) + HBr (aq)*
 
-2. CsBr *4.2562 g* (0.02 mol) in boiling H<sub>2</sub>O *10 mL*\
+2. CsBr *4.2562***g* (0.02 mol) in boiling H<sub>2</sub>O *10***mL*\
    *CsBr (s) + H<sub>2</sub>O (l) &rarr; Cs<sup>+</sup> (aq) + Br<sup>-</sup> (aq)*
 
 3. stirring\
