@@ -17,7 +17,7 @@ sigmaaldrich =
 2. KBr *35.7000***g* (0.3 mol) in boiling H<sub>2</sub>O *50***mL*\
   *KBr (s) + H<sub>2</sub>O (l) &rarr; K<sup>+</sup> (aq) + Br<sup>-</sup> (aq)*
 
-3. stirring\
+3. stir\
   *Pb<sup>2+</sup> (aq) + 2NO<sub>3</sub><sup>-</sup> (aq) + 2K<sup>+</sup> (aq) + 2Br<sup>-</sup> (aq) &rarr; PbBr<sub>2</sub>&darr; (s) + 2NO<sub>3</sub> (s) + H<sub>2</sub>O (l)*
 
 4. keep stirring and cool to room temperature
@@ -34,7 +34,7 @@ sigmaaldrich =
 2. CsBr *4.2562***g* (0.02 mol) in boiling H<sub>2</sub>O *10***mL*\
    *CsBr (s) + H<sub>2</sub>O (l) &rarr; Cs<sup>+</sup> (aq) + Br<sup>-</sup> (aq)*
 
-3. stirring\
+3. stir\
    *(PbBr<sub>3</sub>)<sup>-</sup> (aq) + HBr (aq) + Cs<sup>+</sup> (aq) + Br<sup>-</sup> (aq) &rarr; CsPbBr<sub>3</sub>&darr; (s) + HBr (aq)*
 
 4. keep stirring at least *30***min*
