@@ -1,4 +1,4 @@
-# **CsPbBr3 synthesis**
+# **CsPbBr<sub>3</sub> synthesis recipe**
 UNLV\
 the new version is available on [GitHub](https://github.com/hanc4-git?tab=repositories).
 
