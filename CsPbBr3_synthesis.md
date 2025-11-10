@@ -48,5 +48,5 @@ sigmaaldrich =
    *PbBr<sub>2</sub> (s) + CsBr (s) &rarr; CsPbBr<sub>3</sub>&darr; (s)*
 
 2. CsPbBr<sub>3</sub> *10.6***g* (0.02 mol)
-3. sintering 600<sup>o</sup> for *6***hrs*
-4. Cool to room temperature by *50<sup>o</sup>***C/h*
+3. sintering *600<sup>o</sup>C* for *6***hrs*
+4. Cool to room temperature by *50<sup>o</sup>C/h*
