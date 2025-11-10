@@ -8,19 +8,16 @@ the new version is available on [GitHub](https://github.com/hanc4-git?tab=reposi
 [211141-100G $121.00](https://www.sigmaaldrich.com/US/en/product/aldrich/211141)
 
 1. Pb(NO<sub>3</sub>)<sub>2</sub> *49.6812 g* (0.15 mol) in boiling H<sub>2</sub>O *100 mL*\
-  *Pb(NO<sub>3</sub>)<sub>2</sub> (s) + H<sub>2</sub>O (l) = Pb<sup>2+</sup> (aq) + 2NO<sub>3</sub><sup>-</sup> (aq)*
+  *Pb(NO<sub>3</sub>)<sub>2</sub> (s) + H<sub>2</sub>O (l) &rarr; Pb<sup>2+</sup> (aq) + 2NO<sub>3</sub><sup>-</sup> (aq)*
 
 2. KBr *35.7007 g* (0.3 mol) in boiling H<sub>2</sub>O *50 mL*\
-  *KBr (s) + H<sub>2</sub>O (l) = K<sup>+</sup> (aq) + Br<sup>-</sup> (aq)*
+  *KBr (s) + H<sub>2</sub>O (l) &rarr; K<sup>+</sup> (aq) + Br<sup>-</sup> (aq)*
 
+3. stirring\
+  *Pb<sup>2+</sup> (aq) + 2NO<sub>3</sub><sup>-</sup> (aq) + 2K<sup>+</sup> (aq) + 2Br<sup>-</sup> (aq) &rarr; PbBr<sub>2</sub>&darr; (s) + 2NO<sub>3</sub> (s) + H<sub>2</sub>O (l)*
 
-
-c.	a. -> b. w/ stirring
-Pb 2+ (aq) + 2NO3- (aq) + 2K+ (aq) + 2Br- (aq) = PbBr2↓ (s) + 2KNO3 (s) + H2O (l)
-
-d.	PbBr2 stirring 15 mins
-e.	Cool to RT
-f.	Vacuum filtration w/ H2O
+4.	cool to room temperature and keep stirring
+5.	Vacuum filtration w/ H2O
 PbBr2 (s) + 2KNO3 (s) + H2O washing = PbBr2 (s) + 2K+ (aq) + 2NO3- (aq)
 
 g.	Vacuum drying (45 g)
