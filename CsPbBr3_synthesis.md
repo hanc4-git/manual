@@ -28,7 +28,7 @@ sigmaaldrich =
 
 ## **CsPbBr<sub>3</sub> synthesis**
 ### solution process
-1. PbBr<sub>2</sub> *7.3402 g* (0.02 mol) in HBr (48 wt. % in H<sub>2</sub>O) *10 mL*\
+1. PbBr<sub>2</sub> *7.3402***g* (0.02 mol) in HBr (48 wt. % in H<sub>2</sub>O) *10***mL*\
    *PbBr<sub>2</sub> (s) + HBr (aq) &rarr; (PbBr<sub>3</sub>)<sup>-</sup> (aq) + HBr (aq)*
 
 2. CsBr *4.2562***g* (0.02 mol) in boiling H<sub>2</sub>O *10***mL*\
@@ -38,9 +38,8 @@ sigmaaldrich =
    *(PbBr<sub>3</sub>)<sup>-</sup> (aq) + HBr (aq) + Cs<sup>+</sup> (aq) + Br<sup>-</sup> (aq) &rarr; CsPbBr<sub>3</sub>&darr; (s) + HBr (aq)*
 
 4. keep stirring at least *30***min*
-6. **vacuum filtration** with H<sub>2</sub>O\
-4.	Vacuum filtration w/ Ethanol
-CsPbBr3 (s) + HBr (aq) + CH3CH2OH washing = CsPbBr3 (s) + C2H5Br (l) + H2O (l)
+5. **vacuum filtration** with *C<sub>2</sub>H<sub>6</sub>O, ethanol*\
+   *CsPbBr<sub>3</sub>&darr; (s) + HBr (aq) + C<sub>2</sub>H<sub>6</sub>O (aq) &rarr; CsPbBr<sub>3</sub> (s) + C<sub>2</sub>H<sub>5</sub>Br (l) + H<sub>2</sub>O (l)*
 
 5.	Vacuum drying (10.6 g)
 
