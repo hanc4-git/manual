@@ -1,4 +1,5 @@
 # manual
+**CsPbBr3 synthesis.md** - CsPbBr3 synthesis recipe\
 **chimera.md** - chimera transfer manual\
 **flame_sealing.v2.md** - flame sealing manual.v2\
 **pdf-2.md** - icdd pdf-2 phase identification manual\
