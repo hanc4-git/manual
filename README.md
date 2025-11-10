@@ -1,4 +1,5 @@
 # manual
+**Cs3Bi2I9 synthesis.md** - Cs<sub>3</sub>Bi<sub>2</sub>I<sub>9</sub> synthesis recipe\
 **CsPbBr3 synthesis.md** - CsPbBr<sub>3</sub> synthesis recipe\
 **chimera.md** - chimera transfer manual\
 **flame_sealing.v2.md** - flame sealing manual.v2\
