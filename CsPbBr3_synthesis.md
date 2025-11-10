@@ -39,6 +39,6 @@ CsPbBr3 (s) + HBr (aq) + CH3CH2OH washing = CsPbBr3 (s) + C2H5Br (l) + H2O (l)
 5.	Vacuum drying (10.6 g)
 
 ### solid state process
-1.	CsBr 4.26 g (0.02 mol) + PbBr2 7.31 g (0.02 mol) w/ grinding
+1.	PbBr2 7.31 g (0.02 mol) + CsBr 4.26 g (0.02 mol) w/ grinding
 2.	Soaking 600 ⁰C for 6 hrs
 3.	Cool to RT w/ 50 ⁰C/h
