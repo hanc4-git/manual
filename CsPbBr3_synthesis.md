@@ -7,9 +7,10 @@ the new version is available on [GitHub](https://github.com/hanc4-git?tab=reposi
 sigmaaldrich =
         915696-5G  (99.999% trace metals basis (perovskite grade),   5g, $164.00)
         398853-5G  (                   99.999% trace metals basis,   5g, $70.40)
-        211141-100G(                                         >98%, 100g, $121.00)
+        211141-100G(                                         ≥98%, 100g, $121.00)
 ```
-> [sigmaaldrich](https://www.sigmaaldrich.com/US/en/product/aldrich/915696)
+> [sigmaaldrich](https://www.sigmaaldrich.com/US/en/product/aldrich/915696)\
+> its assay, size, price
 
 1. Pb(NO<sub>3</sub>)<sub>2</sub> *49.6815***g* (0.15 mol) in boiling H<sub>2</sub>O *100***mL*\
   *Pb(NO<sub>3</sub>)<sub>2</sub> (s) + H<sub>2</sub>O (l) &rarr; Pb<sup>2+</sup> (aq) + 2NO<sub>3</sub><sup>-</sup> (aq)*
