@@ -4,7 +4,7 @@ the new version is available on [GitHub](https://github.com/hanc4-git?tab=reposi
 
 ## **Cs<sub>3</sub>Bi<sub>2</sub>I<sub>9</sub> synthesis**
 ### solution process
-1. PbBr<sub>2</sub> *7.3402***g* (0.02 mol) in HBr (48 wt. % in H<sub>2</sub>O) *10***mL*\
+1. CsI *15.59***g* (0.02 mol) in boiling H<sub>2</sub>O *20***mL*\
    *PbBr<sub>2</sub> (s) + HBr (aq) &rarr; (PbBr<sub>3</sub>)<sup>-</sup> (aq) + HBr (aq)*
 
 2. CsBr *4.2562***g* (0.02 mol) in boiling H<sub>2</sub>O *10***mL*\
@@ -28,7 +28,7 @@ the new version is available on [GitHub](https://github.com/hanc4-git?tab=reposi
 4. Cool to room temperature by *50<sup>o</sup>C/h*
 
 // Cs3Bi2I9 – solution process
-a.	CsI 15.59 g (0.02 mol) in boiling H2O 20 mL
+a.	
 CsI (s) + H2O (l) = Cs+ (aq) + I- (aq)
 
 b.	Bi2O3 9.32 g (0.02 mol) in 57% HI 80 mL
