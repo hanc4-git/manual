@@ -38,7 +38,7 @@ sigmaaldrich =
 3. stir\
    *(PbBr<sub>3</sub>)<sup>-</sup> (aq) + HBr (aq) + Cs<sup>+</sup> (aq) + Br<sup>-</sup> (aq) &rarr; CsPbBr<sub>3</sub>&darr; (s) + HBr (aq)*
 
-4. keep stirring at least *30***min*
+4. keep stirring and cool to room temperature
 5. **vacuum filtration** with *C<sub>2</sub>H<sub>6</sub>O, ethanol*\
    *CsPbBr<sub>3</sub> (s) + HBr (aq) + C<sub>2</sub>H<sub>6</sub>O (aq) &rarr; CsPbBr<sub>3</sub> (s) + [C<sub>2</sub>H<sub>5</sub>Br](https://en.wikipedia.org/wiki/Bromoethane) (l) + H<sub>2</sub>O (l)*
 
