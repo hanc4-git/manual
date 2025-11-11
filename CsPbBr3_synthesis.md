@@ -12,10 +12,10 @@ sigmaaldrich =
 > [sigmaaldrich](https://www.sigmaaldrich.com/US/en/product/aldrich/915696)\
 > its assay, size, price
 
-1. Pb(NO<sub>3</sub>)<sub>2</sub> *49.6815***g* (0.15 mol) in boiling H<sub>2</sub>O *100***mL*\
+1. Pb(NO<sub>3</sub>)<sub>2</sub> *49.6815 g* (0.15 mol) in boiling H<sub>2</sub>O *100 mL*\
   *Pb(NO<sub>3</sub>)<sub>2</sub> (s) + H<sub>2</sub>O (l) &rarr; Pb<sup>2+</sup> (aq) + 2NO<sub>3</sub><sup>-</sup> (aq)*
 
-2. KBr *35.7000***g* (0.3 mol) in boiling H<sub>2</sub>O *50***mL*\
+2. KBr *35.7000 g* (0.3 mol) in boiling H<sub>2</sub>O *50 mL*\
   *KBr (s) + H<sub>2</sub>O (l) &rarr; K<sup>+</sup> (aq) + Br<sup>-</sup> (aq)*
 
 3. stir\
@@ -29,10 +29,10 @@ sigmaaldrich =
 
 ## **CsPbBr<sub>3</sub> synthesis**
 ### solution process
-1. PbBr<sub>2</sub> *7.3402***g* (0.02 mol) in HBr (48 wt. % in H<sub>2</sub>O) *10***mL*\
+1. PbBr<sub>2</sub> *7.3402 g* (0.02 mol) in HBr (48 wt. % in H<sub>2</sub>O) *10 mL*\
    *PbBr<sub>2</sub> (s) + HBr (aq) &rarr; (PbBr<sub>3</sub>)<sup>-</sup> (aq) + HBr (aq)*
 
-2. CsBr *4.2562***g* (0.02 mol) in boiling H<sub>2</sub>O *10***mL*\
+2. CsBr *4.2562 g* (0.02 mol) in boiling H<sub>2</sub>O *10 mL*\
    *CsBr (s) + H<sub>2</sub>O (l) &rarr; Cs<sup>+</sup> (aq) + Br<sup>-</sup> (aq)*
 
 3. stir\
@@ -45,7 +45,7 @@ sigmaaldrich =
 6. vacuum drying CsPbBr<sub>3</sub> *10.6***g* (0.02 mol)
 
 ### solid state process
-1. mortared with PbBr<sub>2</sub> *7.3402***g* (0.02 mol) and CsBr *4.2562***g* (0.02 mol)\
+1. mortared with PbBr<sub>2</sub> *7.3402 g* (0.02 mol) and CsBr *4.2562 g* (0.02 mol)\
    *PbBr<sub>2</sub> (s) + CsBr (s) &rarr; CsPbBr<sub>3</sub>&darr; (s)*
 
 2. CsPbBr<sub>3</sub> *10.6***g* (0.02 mol)
