@@ -4,20 +4,10 @@ the new version is available on [GitHub](https://github.com/hanc4-git?tab=reposi
 
 ## lead bromide (PbBr<sub>2</sub>) precursor
 ```
-chemglass = 
-        CGQ-0800T-16( 8*mm, 10*mm, 4*feet)
-        CGQ-0800T-19( 9*mm, 11*mm, 4*feet)
-        CGQ-0800T-34(13*mm, 15*mm, 4*feet)
-        CGQ-0800T-51(17*mm, 20*mm, 4*feet)
-        CGQ-0800T-68(22*mm, 25*mm, 4*feet)
-```
-> [chemglass](https://chemglass.com/quartz-tubing-clear-fused-general-electric-type-214)
-
-```
 sigmaaldrich =
-           915696-5G  (  5g, $164.00)
-           398853-5G  (  5g, $70.40)
-           211141-100G(100g, $121.00)
+        915696-5G  (99.999% trace metals basis (perovskite grade),   5g, $164.00)
+        398853-5G  (                   99.999% trace metals basis,   5g, $70.40)
+        211141-100G(                                         >98%, 100g, $121.00)
 ```
 > [sigmaaldrich](https://www.sigmaaldrich.com/US/en/product/aldrich/915696)
 
