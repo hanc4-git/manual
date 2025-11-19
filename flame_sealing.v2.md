@@ -27,8 +27,8 @@ technicalglass =
 1. move **air** tank
 2. move *Ar* tank if needed
 3. connect **gas tubes** to [**torch** *(Type_3A_Blowpipe)*](https://artcoinc.com/national.php)\
-	**green**->air *(O<sub>2</sub>, oxygen)*\
-	**red**->gas *(CH<sub>4</sub>, methane)*
+	**green** &rarr; air *(O<sub>2</sub>, oxygen)*\
+	**red** &rarr; gas *(CH<sub>4</sub>, methane)*
 > green for gas and red for air usually
 
 4. open each valves few moment
