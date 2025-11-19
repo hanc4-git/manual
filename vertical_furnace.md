@@ -20,22 +20,22 @@ MTI =
 	> its zone 1, 2, 3
  
 	- **Touch key arrow1_leftwards**->enter the stage of temperature *(A/M)*\
-		**C01**->celcius (C)\
-		**T01**->time (min)
+		**C01** &rarr; celcius (C)\
+		**T01** &rarr; time (min)
    		> its temperature\
 		> its time
    
-	- **Touch key arrow2_upwards**->increase the value to be set *(STOP)*
-	- **Touch key arrow2_downwards**->decrease the value to be set *(RUN/HOLD)*
-	- **Touch key arrow2_leftwards**->move the point *(A/M)*
-	- **Touch key arrow2_clockwise open circle**->get in next segment
+	- **Touch key arrow2_upwards** &rarr; increase the value to be set *(STOP)*
+	- **Touch key arrow2_downwards** &rarr; decrease the value to be set *(RUN/HOLD)*
+	- **Touch key arrow2_leftwards** &rarr; move the point *(A/M)*
+	- **Touch key arrow2_clockwise open circle** &rarr; get in next segment
 	- Program end = **-121**
 	> output power off\
 	> for negative, decrease number to make 0 first
 
 4. **heater (green)** on\
-	**green**->heating ready\
-	**red**->heating stop
+	**green** &rarr; heating ready\
+	**red** &rarr; heating stop
 
 5. **Touch key arrow1_downwards**->push key for two seconds
 6. check indicator lights flashing
